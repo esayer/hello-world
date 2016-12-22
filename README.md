@@ -1,2 +1,3 @@
 # hello-world
-Beginning
+
+Computers are great!
